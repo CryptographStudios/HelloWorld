@@ -13,7 +13,7 @@ node{
 		stage('Test') {
 			
 				echo 'Testing..'
-				bat "\""C:\Program Files (x86)\Microsoft Visual Studio\2017\TestAgent\Common7\IDE" " /resultsfile:"%WORKSPACE%/HelloWorld/Results.trx" /testcontainer:"HelloWorld/HelloTest/bin/Release/HelloTest.dll
+				bat "\"C:\Program Files (x86)\Microsoft Visual Studio\2017\TestAgent\Common7\IDE\MSTest.exe" " /resultsfile:"%WORKSPACE%/HelloWorld/Results.trx" /testcontainer:"HelloWorld/HelloTest/bin/Release/HelloTest.dll
 
 			
 		}
