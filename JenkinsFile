@@ -5,6 +5,8 @@ node{
 			
 				echo 'Building..'
 				git 'https://github.com/CryptographStudios/HelloWorld'
+				bat '''C:\\nuget.exe restore “HelloWorld/HelloWorld.sln"'''
+
 				bat "\"${tool 'MSBuild'}\" HelloWorld/HelloWorld.sln /p:Configuration=Release /p:Platform=\"Any CPU\" /p:ProductVersion=1.0.0.${env.BUILD_NUMBER}"				
 			
 		}
