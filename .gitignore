@@ -19,3 +19,11 @@ HelloTest/bin/Debug/HelloTest.pdb
 HelloWorld/.vs/HelloWorld/DesignTimeBuild/.dtbcache
 HelloTest/obj/Debug/HelloTest.csprojAssemblyReference.cache
 HelloTest/obj/Debug/HelloTest.csproj.CoreCompileInputs.cache
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+HelloTest/bin/Debug/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+HelloWorld/.vs/HelloWorld/v15/.suo

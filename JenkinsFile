@@ -13,6 +13,8 @@ node{
 		stage('Test') {
 			
 				echo 'Testing..'
+				bat "\"${tool 'MSTest'}\" /resultsfile:"%WORKSPACE%\HelloWorld\Results.trx" /testcontainer:"HelloWorld\HelloTest\bin\Release\HelloTest.dll" /nologo""
+
 			
 		}
 		stage('Deploy') {
