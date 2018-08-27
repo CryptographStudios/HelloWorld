@@ -9,3 +9,13 @@ HelloWorld/obj/Debug/HelloWorld.csprojAssemblyReference.cache
 HelloWorld/obj/Debug/TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs
 HelloWorld/obj/Debug/TemporaryGeneratedFile_5937a670-0e60-4077-877b-f7221da3dda1.cs
 HelloWorld/obj/Debug/TemporaryGeneratedFile_E7A71F73-0F8D-4B9B-B56E-8E70B10BC5D3.cs
+HelloWorld/obj/Debug
+/HelloWorld/bin/Debug
+HelloTest/bin/Debug/HelloTest.dll
+HelloTest/obj
+HelloWorld/packages
+HelloTest/bin/Debug/HelloTest.dll
+HelloTest/bin/Debug/HelloTest.pdb
+HelloWorld/.vs/HelloWorld/DesignTimeBuild/.dtbcache
+HelloTest/obj/Debug/HelloTest.csprojAssemblyReference.cache
+HelloTest/obj/Debug/HelloTest.csproj.CoreCompileInputs.cache
