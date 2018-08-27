@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Building..'
 				git 'https://github.com/CryptographStudios/HelloWorld'
-				build 'CICD Hello World'				
+				build job: 'CICD Hello World', wait: false				
             }
         }
         stage('Test') {
