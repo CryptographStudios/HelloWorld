@@ -18,8 +18,7 @@ node{
 		stage('Deploy') {
 			
 				echo 'Deploying....'
-
-			
+				bat 'ssh MattMorgan@18.223.140.159 mkdir ..\..\BuildDeploy'			
 
 		}
 	
